@@ -12,10 +12,10 @@ git clone https://github.com/CodeWomen-Barcelona/git-tutorial-helloworld.git
 
 Let us know how you say Hello World in your language
 
-1. Go to the `collaborate-branch` branch
+1. Go to the `collaborate` branch
 
 ```
-git checkout collaborate-branch
+git checkout collaborate
 ```
 2. Create a file inside `helloworld/` called `my-name.txt` 
 3. Inside the file, write how you would say hello in your language! You can also get creative and write anything you want.
