@@ -25,13 +25,9 @@ git push -u origin collaborate-branch
 
 ## Exercise 2
 
-1. Go to the `main` branch 
 
-```
-git checkout collaborate-branch
-```
-2. Modify the file inside `food/favourite_food.csv` by adding your name and favourite food
-3. Create a new branch with your name and push your changes
+1. Modify the file inside `food/favourite_food.csv` by adding your name and favourite food
+2. Create a new branch with your name and push your changes
 ```
 git checkout -b xxx-favourite-food
 git add food/favourite_food.csv
