@@ -19,7 +19,7 @@ Let us know how you say Hello World in your language
 ```
 git add helloworld/my-name.txt
 git commit -m "added Hello in my language"
-git push -u origin collaborate-branch
+git push
 ```
 
 
