@@ -5,7 +5,7 @@ This repository is used to practice working collaboratively
 Clone the repository
 
 ```
-git clone https://github.com/CodeWomen-Barcelona/git-tutorial-helloworld.git
+git clone https://github.com/Projects-for-coding-women/git-tutorial-helloworld.git
 ```
 
 ## Exercise 1 
@@ -34,12 +34,12 @@ git add food/favourite_food.csv
 git commit -m "added my favourite food"
 git push -u origin xxx-favourite-food
 ```
-4. Go to [github](https://github.com/CodeWomen-Barcelona/git-tutorial-helloworld) and open a Pull Request with your changes
+4. Go to [github](https://github.com/Projects-for-coding-women/git-tutorial-helloworld) and open a Pull Request with your changes
 
 5. Ask for someone to approve and 
 
 ## Exercise 3
 
-1. Go to [Open Issues](https://github.com/CodeWomen-Barcelona/git-tutorial-helloworld/issues), pick one and assign yourself to it
+1. Go to [Open Issues](https://github.com/Projects-for-coding-women/git-tutorial-helloworld/issues), pick one and assign yourself to it
 2. Create a branch and work on it.
 3. When you've addressed the issue, open a Pull request and ask someone to approve it
